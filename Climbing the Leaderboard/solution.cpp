@@ -1,4 +1,9 @@
-#include <bits/stdc++.h>
+#include<bits/stdc++.h>
+#define ral(i,n) for(int i=1;i<=n;i++)
+#define mod 1000000007
+#define vect vector<int>
+#define pb push_back
+#define lli long long int
 using namespace std;
 int main()
 {
